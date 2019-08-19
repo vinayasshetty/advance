@@ -1,0 +1,9 @@
+C:\Users\Vinaya.SS\Documents\Visual Studio 2015\Projects\Advance\ObjectInitializerDemo\LinqToSQLDemo\bin\Debug\LinqToSQLDemo.exe.config
+C:\Users\Vinaya.SS\Documents\Visual Studio 2015\Projects\Advance\ObjectInitializerDemo\LinqToSQLDemo\bin\Debug\LinqToSQLDemo.exe
+C:\Users\Vinaya.SS\Documents\Visual Studio 2015\Projects\Advance\ObjectInitializerDemo\LinqToSQLDemo\bin\Debug\LinqToSQLDemo.pdb
+C:\Users\Vinaya.SS\Documents\Visual Studio 2015\Projects\Advance\ObjectInitializerDemo\LinqToSQLDemo\obj\Debug\LinqToSQLDemo.csprojResolveAssemblyReference.cache
+C:\Users\Vinaya.SS\Documents\Visual Studio 2015\Projects\Advance\ObjectInitializerDemo\LinqToSQLDemo\obj\Debug\LinqToSQLDemo.Form1.resources
+C:\Users\Vinaya.SS\Documents\Visual Studio 2015\Projects\Advance\ObjectInitializerDemo\LinqToSQLDemo\obj\Debug\LinqToSQLDemo.Properties.Resources.resources
+C:\Users\Vinaya.SS\Documents\Visual Studio 2015\Projects\Advance\ObjectInitializerDemo\LinqToSQLDemo\obj\Debug\LinqToSQLDemo.csproj.GenerateResource.Cache
+C:\Users\Vinaya.SS\Documents\Visual Studio 2015\Projects\Advance\ObjectInitializerDemo\LinqToSQLDemo\obj\Debug\LinqToSQLDemo.exe
+C:\Users\Vinaya.SS\Documents\Visual Studio 2015\Projects\Advance\ObjectInitializerDemo\LinqToSQLDemo\obj\Debug\LinqToSQLDemo.pdb
